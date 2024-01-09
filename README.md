@@ -1,5 +1,9 @@
 ### Hello!  🏄 
-![test2](https://github.com/mreraser/mreraser/assets/33192762/779594d5-2031-4f18-9b72-62e7022541ac)
+
+<p align="center">
+  <img src="https://github.com/mreraser/mreraser/assets/33192762/779594d5-2031-4f18-9b72-62e7022541ac" style="width:50%; height:auto;">
+</p>
+
 
 <!--
 **mreraser/mreraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
